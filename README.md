@@ -21,7 +21,7 @@ The analysis focused on three core aspects:
 
 - Run SQL queries on SQL Server
 
-- Run PowerBi file
+- Run Power BI file
 
 ### References
 - [Exploring AdventureWorks Database through Comprehensive SQL Analysis and Power BI Dashboard](https://medium.com/@abdulazizbabkrwork/exploring-adventureworks-database-through-comprehensive-sql-analysis-and-power-bi-dashboard-aedbca3d81ed)
