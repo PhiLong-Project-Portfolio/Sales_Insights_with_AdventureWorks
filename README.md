@@ -9,14 +9,22 @@ In this project, I used SQL for data extraction and manipulation, and Power BI f
 The analysis focused on three core aspects:
 
 - **Sales Overview:** Detailed examination of sales performance across various dimensions such as time, geography, and sales channels, providing a clear picture of revenue trends and growth opportunities.
+
 - **Customer Segmentation:** Identification and categorization of customer segments based on purchasing behavior, demographics, and other relevant criteria to tailor marketing strategies and improve customer satisfaction.
+
 - **Product Details:** In-depth analysis of product performance, including bestsellers, inventory levels, and profitability, enabling more informed product management and development decisions.
 
-### Detailed information for each file
--
--
--
+### Intruction
+- [Download to AdventureWorksDW2022.bak file](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
-### Installation
+- Import AdventureWorksDW database into SQL Server
 
-### Documentation
+- Run SQL queries on SQL Server
+
+- Run PowerBi file
+
+### References
+- [Exploring AdventureWorks Database through Comprehensive SQL Analysis and Power BI Dashboard](https://medium.com/@abdulazizbabkrwork/exploring-adventureworks-database-through-comprehensive-sql-analysis-and-power-bi-dashboard-aedbca3d81ed)
+
+- [AdventureWorks Sales Report (End-to-end ETL process and Data Visualization using Power BI)](https://truc-phan.medium.com/adventureworks-sales-report-end-to-end-etl-process-and-data-visualization-using-power-bi-114a45ed3d21)
+
