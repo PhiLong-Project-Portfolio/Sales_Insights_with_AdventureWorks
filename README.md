@@ -1,1 +1,1 @@
-# Sales_Insight_with_AdventureWorks
+# Sales Insight with AdventureWorks
