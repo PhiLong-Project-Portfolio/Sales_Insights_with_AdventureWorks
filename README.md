@@ -23,6 +23,8 @@ The analysis focused on three core aspects:
 
 - Run Power BI file
 
+- Download the Sales Presentation.pdf file to see more information about the project
+
 ### References
 - [Exploring AdventureWorks Database through Comprehensive SQL Analysis and Power BI Dashboard](https://medium.com/@abdulazizbabkrwork/exploring-adventureworks-database-through-comprehensive-sql-analysis-and-power-bi-dashboard-aedbca3d81ed)
 
