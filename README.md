@@ -17,13 +17,13 @@ The analysis focused on three core aspects:
 ### Intruction
 - [Download to AdventureWorksDW2022.bak file](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
-- Import AdventureWorksDW database into SQL Server
+- Import AdventureWorksDW database into SQL Server.
 
-- Run SQL queries on SQL Server
+- Run SQL queries on SQL Server.
 
-- Run Power BI file
+- Run Power BI file.
 
-- Download the Sales Presentation.pdf file to see more information about the project
+- Download the Sales Insight Presentation file to see more information about the project.
 
 ### References
 - [Exploring AdventureWorks Database through Comprehensive SQL Analysis and Power BI Dashboard](https://medium.com/@abdulazizbabkrwork/exploring-adventureworks-database-through-comprehensive-sql-analysis-and-power-bi-dashboard-aedbca3d81ed)
