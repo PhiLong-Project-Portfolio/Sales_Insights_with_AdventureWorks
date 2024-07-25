@@ -14,7 +14,7 @@ The analysis focused on three core aspects:
 
 - **Product Details:** In-depth analysis of product performance, including bestsellers, inventory levels, and profitability, enabling more informed product management and development decisions.
 
-### Intruction
+### Instruction
 - [Download to AdventureWorksDW2022.bak file](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
 - Import AdventureWorksDW database into SQL Server.
