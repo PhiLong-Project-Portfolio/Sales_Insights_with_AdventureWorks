@@ -47,7 +47,7 @@ The analysis focuse on three core aspects:
 ### Conclusion
 Through a analysis of the AdventureWorksDW database, I have gained valuable insights into sales overview, customer segmentation, and product performance. By leveraging SQL queries, I extracted meaningful information that can guide business decisions and strategies. Additionally, the Power BI dashboard provides a comprehensive picture of sales, customers, and products of the company. The interactive components and insightful visualizations allow users to explore, understand, and make informed decisions effectively.
 
-However, the project is based on a sample database, which may not fully capture the complexities and nuances of a real-world business environment. The dataset spans from January 2011 to February 2014, and does not include more recent data, potentially limiting the applicability of the insights.
+However, the project is based on a sample database, which may not fully capture the complexities of a real-world business environment. Additionally, the dataset spans from January 2011 to February 2014, and does not include more recent data, potentially limiting the applicability of the insights.
 
 
 ### References
