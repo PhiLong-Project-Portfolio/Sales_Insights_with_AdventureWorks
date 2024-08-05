@@ -22,6 +22,17 @@ The analysis focuse on three core aspects:
 
 ![Product Detail](https://github.com/user-attachments/assets/fe095cb5-ed74-4c4d-9cdf-4d429f7ff21f)
 
+### Key Findings
+
+- **Sales Overview:** From January 2011 to February 2014, the company achieved $109.81 million in total sales with a profit of $12.55 million. The United States was the top contributor with $63 million in sales. The Bikes category dominated, accounting for 86.17% of total sales.
+
+- **Sales Channels:** Reseller sales generated $80.45 million, while Internet sales contributed $29.36 million. Despite higher sales volumes from resellers, the Internet channel had a higher profit margin.
+
+- **Customer Segmentation:** Sales were evenly distributed between male and female customers. Medium-income customers were the largest group, contributing 46.82% of sales. Most customers had at least some college education.
+
+- **Product Details:** The inventory value was $33.56 million with 94,000 units in stock. The Mountain-200 series was particularly profitable, highlighting strong consumer preference.
+
+
 ### Instruction
 - [Download to AdventureWorksDW2022.bak file](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
@@ -32,6 +43,12 @@ The analysis focuse on three core aspects:
 - Run Power BI file.
 
 - Download the Sales Insight Presentation file to see more information about the project.
+
+### Conclusion
+Through a analysis of the AdventureWorksDW database, I have gained valuable insights into sales overview, customer segmentation, and product performance. By leveraging SQL queries, I extracted meaningful information that can guide business decisions and strategies. Additionally, the Power BI dashboard provides a comprehensive picture of sales, customers, and products of the company. The interactive components and insightful visualizations allow users to explore, understand, and make informed decisions effectively.
+
+However, the project is based on a sample database, which may not fully capture the complexities and nuances of a real-world business environment. The dataset spans from January 2011 to February 2014, and does not include more recent data, potentially limiting the applicability of the insights.
+
 
 ### References
 - [Exploring AdventureWorks Database through Comprehensive SQL Analysis and Power BI Dashboard](https://medium.com/@abdulazizbabkrwork/exploring-adventureworks-database-through-comprehensive-sql-analysis-and-power-bi-dashboard-aedbca3d81ed)
