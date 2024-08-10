@@ -1,7 +1,7 @@
 # Sales Analysis and Insight with AdventureWorks
 
-### About AdventureWorksDW Database
-The AdventureWorksDW database is a comprehensive, widely-used sample database developed by Microsoft to showcase the capabilities of SQL Server and related technologies. It simulates a fictional company named AdventureWorks Cycles, which specializes in manufacturing and selling bicycles and related accessories. AdventureWorksDW is a data warehouse database that contains a wealth of information structured to support business intelligence, reporting, and data analysis scenarios. 
+### About AdventureWorksDW
+The AdventureWorksDW is a comprehensive, widely-used sample data warehouse developed by Microsoft to showcase the capabilities of SQL Server and related technologies. It simulates a fictional company named AdventureWorks Cycles, which specializes in manufacturing and selling bicycles and related accessories. AdventureWorksDW is a data warehouse database that contains a wealth of information structured to support business intelligence, reporting, and data analysis scenarios. 
 
 ![Screenshot 2024-07-21 184900](https://github.com/user-attachments/assets/b07eb20a-e6d3-4c93-b0f1-b3889a345745)
 
