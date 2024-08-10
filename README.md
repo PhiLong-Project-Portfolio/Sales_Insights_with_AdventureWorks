@@ -6,7 +6,7 @@ The AdventureWorksDW is a comprehensive, widely-used sample data warehouse devel
 ![Screenshot 2024-07-21 184900](https://github.com/user-attachments/assets/b07eb20a-e6d3-4c93-b0f1-b3889a345745)
 
 ### About my project
-In this project, I used SQL for data extraction, analytics and manipulation, and Power BI for visualization, I aimed to uncover key business insights and trends that can drive strategic decision-making.
+In this project, I used SQL for querying data, analytics and manipulation, and Power BI for visualization, I aimed to uncover key business insights and trends that can drive strategic decision-making.
 
 The analysis focuse on three core aspects:
 
