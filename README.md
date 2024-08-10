@@ -36,7 +36,7 @@ The analysis focuse on three core aspects:
 ### Instruction
 - [Download to AdventureWorksDW2022.bak file](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
-- Import AdventureWorksDW database into SQL Server.
+- Import AdventureWorksDW into SQL Server.
 
 - Run SQL queries on SQL Server.
 
